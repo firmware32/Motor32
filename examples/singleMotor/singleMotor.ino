@@ -1,5 +1,5 @@
 //	written by : Doug Reuter
-//	All Motors - 8 motor array each with timing to confirm correct PWM ( due or zero)
+//	All Motors - 8 motor array each with timing to confirm correct PWM ( due )
 //	http://www.firmware32.com http://cheapogadget.com   https://github.com/firmware32/motor32
 //	Copyright (C) 2016 Doug Reuter   dougreuter@gmail.com
 
